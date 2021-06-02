@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
@@ -20,8 +21,8 @@
     "url": "https://github.com/u-Hoshi/node-api/issues"
   },
   "homepage": "https://github.com/u-Hoshi/node-api#readme",
-  "description": "",
   "devDependencies": {
     "nodemon": "^2.0.7"
-  }
+  },
+  "description": ""
 }
